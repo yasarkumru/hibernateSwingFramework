@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="lib/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate3.jar"/>
+	<classpathentry kind="lib" path="lib/javassist-3.12.0.GA.jar"/>
+	<classpathentry kind="lib" path="lib/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/prompt.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate-jpa-2.0-api-1.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="lib/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/pdf/itextpdf-5.5.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/pdf/itextpdf-5.5.0-sources.jar"/>
+	<classpathentry kind="lib" path="lib/pdf/itextpdf-5.5.0.jar" sourcepath="lib/pdf/itextpdf-5.5.0-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/hibernateSwingApi/lib/pdf/itextpdf-5.5.0-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="miglayout15-swing.jar" sourcepath="miglayout-src.zip"/>
+	<classpathentry kind="lib" path="lib/excel/poi-ooxml-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="lib/excel/poi-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="lib/excel/xbean.jar"/>
+	<classpathentry kind="lib" path="lib/excel/poi-ooxml-schemas-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="jgoodies-forms-1.8.0.jar" sourcepath="jgoodies-forms-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="jgoodies-forms-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="jgoodies-common-1.8.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
